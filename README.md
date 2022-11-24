@@ -7,3 +7,6 @@ My first repository in github
 ![Screenshot (67)](https://user-images.githubusercontent.com/111063199/203733801-38443284-b014-4230-a396-cd66a224f71e.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/111063199/203733821-322e4496-5f60-47bf-a5e7-a49ed26d9fd8.png)
 ![Screenshot (69)](https://user-images.githubusercontent.com/111063199/203733839-035c5a7e-c5ba-46d8-9eca-684ef1045b71.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/111063199/203747400-1e2c21eb-a59a-4083-8475-4c3b70b40522.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/111063199/203747426-dc72d958-0f8b-4c06-b222-1e21ab022a2a.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/111063199/203747455-b7ee42f2-65d8-4e86-88c6-75e3c0abfae0.png)
