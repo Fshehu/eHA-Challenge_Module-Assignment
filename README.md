@@ -10,8 +10,8 @@ My first repository in github
 ![Screenshot (72)](https://user-images.githubusercontent.com/111063199/203747400-1e2c21eb-a59a-4083-8475-4c3b70b40522.png)
 ![Screenshot (73)](https://user-images.githubusercontent.com/111063199/203747426-dc72d958-0f8b-4c06-b222-1e21ab022a2a.png)
 ![Screenshot (74)](https://user-images.githubusercontent.com/111063199/203747455-b7ee42f2-65d8-4e86-88c6-75e3c0abfae0.png)
-![Screenshot (75)](https://user-images.githubusercontent.com/111063199/203941043-2b4a72a6-6acd-4f2f-84e![Screenshot (76)](https://user-images.githubusercontent.com/111063199/203941073-7d379dc1-1caa-43a4-9bf3-6da8460c6ca6.png)
-1-19429d646e33.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/111063199/203941043-2b4a72a6-6acd-4f2f-84e1-19429d646e33.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/111063199/203941073-7d379dc1-1caa-43a4-9bf3-6da8460c6ca6.png)
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/111063199/203865166-2a70eef1-6c49-4954-8a35-b0e2c1f2c431.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/111063199/203866869-44681ffb-8b2b-4600-a1ea-6b19ee77852a.png)
